@@ -1,2 +1,2 @@
-# SOFT-python-learning
-30 days of python-SOFT,jain university |staff: Sathish Kumar M
+# SOFT-Python-Learning
+30 Days of Python – SOFT, Jain University | Staff: Sathishkumar M
