@@ -1,2 +1,10 @@
-# SOFT-Python-Learning
-30 Days of Python – SOFT, Jain University | Staff: Sathishkumar M
+# SOFT Python Learning
+**Student:** Merlin Devasia
+**Register No:** JSOFT26034
+**Staff:** Sathish Kumar M
+**Department:** School of Future Technology, Jain University
+## Progress
+| Day | Topic | Status |
+|-----|-------|--------|
+| Day 01 | Introduction | Done |
+| Day 02 | Variables & Built-in Functions | Done |
